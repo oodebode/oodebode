@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oodebode
 - 👀 I’m interested in computational biology and neuroscience
-- 🌱 I’m currently learning matlab, python, R
+- 🌱 I’m currently learning matlab, python, R, java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
